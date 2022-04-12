@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello and welcome to my GitHub! 🎉🥳🎉
 
-<!--
-**keithryanorourke/keithryanorourke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Who am I?
+- A full stack developer 💻 
+- An amateur musician 🎸  
+- A part time gym addict 💪🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am currently
+- Working as a full time Teaching Assistant at BrainStation
+- Looking forward to finding my first permanent development role!
+
+### My skills
+![Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,mysql,aws,linux,nginx)
+
+### Check out my [portfolio](https://keithryanorourke.dev) or find me at:
+#### [LinkedIn](https://linked.com/in/keith-ryan-orourke) [Twitter](https://twitter.com/keith_ro_musik)
+
+## Acknowledgements
+
+ - README made using [readme.so](https://readme.so) made by [Katherine Peterson](https://katherinempeterson.com/)
+ - Skill icons provided by [tandpfun's skill-icons repo](https://github.com/tandpfun/skill-icons#icons-list)
