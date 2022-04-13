@@ -7,8 +7,8 @@
 - A part time gym addict 💪🏻
 
 ### I am currently
-- Working as a full time Teaching Assistant at BrainStation
-- Looking forward to finding my first permanent development role!
+- Working as a full time Teaching Assistant (Web Development) at BrainStation 🧠
+- Looking forward to finding my first permanent development role! 💼
 
 ### My skills
 ![Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,mysql,aws,linux,nginx)
