@@ -13,8 +13,7 @@
 ### My skills
 ![Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,mysql,aws,linux,nginx)
 
-### Check out my [portfolio](https://keithryanorourke.dev) or find me at:
-[LinkedIn](https://linked.com/in/keith-ryan-orourke) [Twitter](https://twitter.com/keith_ro_musik)
+### Check out my [portfolio](https://keithryanorourke.dev) or connect with me on [LinkedIn](https://linked.com/in/keith-ryan-orourke)
 
 ## Acknowledgements
 
