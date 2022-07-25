@@ -7,7 +7,7 @@
 - A part time gym addict 💪🏻
 
 ### I am currently
-- Working as a full time Teaching Assistant (Web Development) at BrainStation 🧠
+- Learning more about technology every as an FDM Academy Trainee 🧠
 - Looking forward to finding my first permanent development role! 💼
 
 ### My skills
