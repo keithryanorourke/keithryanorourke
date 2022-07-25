@@ -11,7 +11,7 @@
 - Looking forward to finding my first permanent development role! 💼
 
 ### My skills
-![Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,mysql,aws,linux,nginx)
+![Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,java,mysql,selenium,aws,linux,nginx)
 
 ### Check out my [portfolio](https://keithryanorourke.dev) or connect with me on [LinkedIn](https://linked.com/in/keith-ryan-orourke)
 
