@@ -7,11 +7,10 @@
 - A part time gym addict 💪🏻
 
 ### I am currently
-- Learning more about technology every as an FDM Academy Trainee 🧠
-- Looking forward to finding my first permanent development role! 💼
+- Working as a technical consultant in software development at FDM Group! 💼
 
 ### My skills
-![Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,java,mysql,selenium,aws,linux,nginx)
+![Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,java,mysql,docker,selenium,aws,linux,nginx)
 
 ### Check out my [portfolio](https://keithryanorourke.dev) or connect with me on [LinkedIn](https://linked.com/in/keith-ryan-orourke)
 
