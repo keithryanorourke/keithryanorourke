@@ -11,7 +11,7 @@
 - Teaching the world's most amazing students as a part time Teaching Assistant at BrainStation!
 
 ### My skills
-![Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,next,nodejs,express,java,mysql,docker,selenium,aws,linux)
+![Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,nodejs,express,cs,dotnet,mysql,docker,azure,aws,linux)
 
 ### Connect with me on [LinkedIn](https://linked.com/in/keith-ryan-orourke)
 
