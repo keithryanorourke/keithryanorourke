@@ -8,7 +8,6 @@
 
 ### I am currently
 - Working as a technical consultant in software development at FDM Group! 💼
-- Teaching the world's most amazing students as a part time Teaching Assistant at BrainStation!
 
 ### My skills
 ![Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,nodejs,express,cs,dotnet,mysql,docker,azure,aws,linux)
